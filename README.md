@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Axel
 
-With over **6 years of experience in cybersecurity**, full-stack engineering, and now Web3 development, I specialize in building real-world, secure, and scalable systems—from offensive security tools to production-grade platforms handling millions of events.
+With over **6 years of experience in cybersecurity**, full-stack engineering, and now Web3 development, I specialize in building real-world, secure, and scalable systems, from offensive security tools to production grade platforms handling millions of events.
 
 ---
 
