@@ -13,7 +13,7 @@ I’ve discovered and responsibly disclosed **numerous vulnerabilities across ma
 - 📌 `sede.madrid.es` – [XSS vulnerability disclosed](https://www.openbugbounty.org/reports/610443/)
 
 From the offensive side:
-- I developed a custom **Red Team tool** capable of generating advanced shellcodes and executing process injection via **direct syscalls**, bypassing most mainstream antivirus engines and EDR. 📄 [Thesis repository link](https://github.com/l3x4overflow/tfg-repo)
+- I developed a custom **Red Team tool** capable of generating advanced and custom shellcodes and executing process injection via **direct syscalls**, bypassing most mainstream antivirus engines and EDR. 📄 [Thesis repository link](https://github.com/l3x4overflow/tfg-repo)
 - As part of that same research, I also uncovered critical **XSS and SMTP vulnerabilities** within the UPV ecosystem, enabling sophisticated phishing and impersonation attacks through abused mail servers.
 - These findings and tools were all documented in my thesis:  
   📄 [Stealth malware & UPV vulnerability research – UPV repository](https://riunet.upv.es/entities/publication/186f4426-bdd3-4a97-b8b1-a8608422dc8d)
